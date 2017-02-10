@@ -1,1 +1,2 @@
-1.http://www.plupload.com/examples/events
+图片上传：1.http://www.plupload.com/examples/events
+富文本编辑器：http://wysiwygjs.github.io/
